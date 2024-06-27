@@ -1,0 +1,14 @@
+{
+  "name" : "com.puffersoftware.aurora.drive",
+  "displayName" : "Puffer Software Drive System",
+  "version" : "1.0.0",
+  "unity" : "2022.3",
+  "author" : "Puffer Software",
+  "description" : "This is an drive system to download and track assets from Google Drive in Unity Editor.",
+  "dependencies" : {},
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/onurozelpf/com.puffersoftware.drive.git"
+  }
+
+}
