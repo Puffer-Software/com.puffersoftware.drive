@@ -31,7 +31,7 @@ namespace PufferSoftware.Aurora.Drive
 
         private const float ButtonWidth = 150f; // Increased button width
 
-        [MenuItem("Aurora/Drive")]
+        [MenuItem("Aurora/Drive", false, -1)]
         public static void ShowWindow()
         {
             GetWindow<GoogleDriveEditorWindow>("Google Drive");
